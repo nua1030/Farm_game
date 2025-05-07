@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: b30b637ce4fa58a49934328be7b18558
+  productGUID: 0446e2798d8446148a016508a70aef87
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Farm_Game_01
+  productName: Farm_Game
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -727,14 +727,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Farm_Game_01
+  metroPackageName: Farm_Game
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Farm_Game_01
+  metroApplicationDescription: Farm_Game
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -803,10 +803,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 2c462282-5937-4559-9914-16fac1f6ce9d
+  cloudProjectId: 3cad7844-cf58-4fa6-8746-7f5d35779fe7
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Farm_Game_01
+  projectName: Farm_Game 2025-05-07_21-22-54
   organizationId: gumdong1030
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
